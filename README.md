@@ -6,3 +6,5 @@ The manuscript file is `public-opinion-experts.Rmd` and is in the manuscript fol
 
 ### Timeline 
 Under review: May 3, 2020. This version is `public-opinion-experts.Rmd` with the tag `v1.0`
+
+Received Revise and Resubmit: July 15, 2020. This version is `public-opinion-experts.Rmd` with the tag `v2.0`
